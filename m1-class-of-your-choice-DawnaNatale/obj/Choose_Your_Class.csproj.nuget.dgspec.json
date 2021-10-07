@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/Choose_Your_Class.csproj": {}
+  },
+  "projects": {
+    "/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/Choose_Your_Class.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/Choose_Your_Class.csproj",
+        "projectName": "Choose_Your_Class",
+        "projectPath": "/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/Choose_Your_Class.csproj",
+        "packagesPath": "/Users/dawnanatale/.nuget/packages/",
+        "outputPath": "/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dawnanatale/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp5"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

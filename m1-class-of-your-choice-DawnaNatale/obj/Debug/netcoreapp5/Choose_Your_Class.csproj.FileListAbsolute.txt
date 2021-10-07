@@ -1,0 +1,15 @@
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/bin/Debug/netcoreapp5/Choose_Your_Class.deps.json
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/bin/Debug/netcoreapp5/Choose_Your_Class.runtimeconfig.json
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/bin/Debug/netcoreapp5/Choose_Your_Class.runtimeconfig.dev.json
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/bin/Debug/netcoreapp5/Choose_Your_Class.dll
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/bin/Debug/netcoreapp5/ref/Choose_Your_Class.dll
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/bin/Debug/netcoreapp5/Choose_Your_Class.pdb
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/Debug/netcoreapp5/Choose_Your_Class.csproj.AssemblyReference.cache
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/Debug/netcoreapp5/Choose_Your_Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/Debug/netcoreapp5/Choose_Your_Class.AssemblyInfoInputs.cache
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/Debug/netcoreapp5/Choose_Your_Class.AssemblyInfo.cs
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/Debug/netcoreapp5/Choose_Your_Class.csproj.CoreCompileInputs.cache
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/Debug/netcoreapp5/Choose_Your_Class.dll
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/Debug/netcoreapp5/ref/Choose_Your_Class.dll
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/Debug/netcoreapp5/Choose_Your_Class.pdb
+/Users/dawnanatale/Source/repos/m1-class-of-your-choice-DawnaNatale/obj/Debug/netcoreapp5/Choose_Your_Class.genruntimeconfig.cache
